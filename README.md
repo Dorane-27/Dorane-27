@@ -1,6 +1,4 @@
-## Hey 👋, My parents told me that my name is Fahim Mohamed
-
-Every Biological Animal is Welcome here to learn Zero Knowledge Proof systems.
+## Hey 👋,I am Fahim Mohamed
 
 Formerly as Ethereum Security Researcher, I currently enjoy learning, researching and building Zero Knowledge Proof Systems. Having taken Bsc in Energy Engineering, i decided to deploy my love for Mathematics & Physics and wrap them together into Blockchain systems particularly solving the issues of Scalability and Privacy.
 
