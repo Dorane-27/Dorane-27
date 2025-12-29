@@ -1,6 +1,6 @@
 ## Hey 👋 there, I am Fahim Mohamed
 
-Formerly as Ethereum Security Researcher, I currently enjoy learning, researching and building Zero Knowledge Proof Systems. Having taken Bsc in Energy Engineering, i decided to deploy my love for Mathematics & Physics and wrap them together into Blockchain systems particularly solving the issues of Scalability and Privacy.
+Formerly immersed into the world of Smart Contracts as Ethereum Security Researcher, I currently enjoy learning, researching and building Zero Knowledge Proof Systems. Having initially taken Bsc in Energy Engineering, i decided to wrapp together my Mathematical & Physics skills and deploy it to Blockchain to particularly solve the issues of Scalability and Privacy.
 
 For those who do not know Zero Knowledge Proofs, this are systems that use mathematical rules to authentically prove a secretive content or element without revealing it.
 
