@@ -1,11 +1,11 @@
-## Hey 👋 there, I am Fahim Mohamed, A ZKP Engineer and Researcher
+## Hi 👋 to the new eyes here, I am a ZK Engineer and Researcher known as Fahim to the mammmals!
 
-Formerly immersed into the world of Smart Contracts as Ethereum Security Researcher, I currently enjoy learning, researching and building Zero Knowledge Proof Systems. Having initially taken Bsc in Energy Engineering, i decided to wrapp together my Physics & Mathematical skills and utilize it in Blockchain to particularly solve the two challenging issues: Privacy and Scalability.
+As former Ethereum Security Researcher, I currently do research and build Zero Knowledge Proof Systems. With an Undergraduate Degree in Energy Engineering, i want to deploy my Physics & Mathematical skills in Blockchain to particularly solve the two challenging issues: Privacy and Scalability.
 
 For those who do not know Zero Knowledge Proofs, this are systems that use mathematical rules to authentically prove a secretive content or element without revealing it.
 
 
-Two upcoming projects i am currenlty working on, are Tornado-like Zk-Money Mixer and ZK Voting Protocol Sytems. 
+Upcoming projects i am currenlty working on, are Tornado-like Zk-Money Mixer and ZK Voting Protocol Sytems. 
 
 <!--
 **Dorane-27/Dorane-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
